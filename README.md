@@ -1,6 +1,6 @@
 # 👋 Hi there
 
-My name is Büşra Ürek, I am based in Antalya, Turkey.
+My name is Büşra Asmafiliz, I am based in Antalya, Turkey.
 - 🔭 I’m currently working on **Frontend Development**
 - 🌱 I’m currently learning **Ionic Angular**
 
