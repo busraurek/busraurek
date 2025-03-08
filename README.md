@@ -2,7 +2,7 @@
 
 My name is Büşra Asmafiliz, I am based in Antalya, Turkey.
 - 🔭 I’m currently working on **Frontend Development**
-- 🌱 I’m currently learning **Ionic Angular**
+- 🌱 I’m currently learning **NextJS**
 
 
 ## 💼 Top Langs
